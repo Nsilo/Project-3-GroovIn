@@ -4,7 +4,7 @@
 
 ## Description
 
-Final Project for UC Berkeley Bootcamp. This is a Social Media App for the up and coming musicians. A way to interact and network with other creatives
+Final Project for UC Berkeley Bootcamp. This is a Social Media App for the up and coming musician. A way to interact and network with other creatives and possible show promoters
 
 ---
 
@@ -39,7 +39,7 @@ node or nodemon server.js
 ## User Story
 
 ```
-AS A musician
+AS A musician or promoter
 I WANT to get in touch with the creative people around me and push my music to the masses
 SO THAT I can grow and get my name out there as an artist
 ```
